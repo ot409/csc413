@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09aaf029-71c3-41fd-ad9e-31ae4ca34b19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullet/expl_08_0031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bullethit/bullethit_0023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/bulletshoot/bulletshoot_0023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/nuke/expl_01_0023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/powerpick/powerpick_0031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/puffsmoke/puffsmoke_0031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rocketflame/rocketflame_0015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/animations/rockethit/rockethit_0031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/bullet/bullet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/bullet/rocket1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/bullet/rocket2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/floor/bg.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/libs/jxinput-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/maps/map1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/menu/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/powerups/health.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/powerups/shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/powerups/speed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/sounds/Music.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/sounds/Music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/sounds/Pokeball.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/sounds/bullet.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/sounds/bullet_shoot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/sounds/explosion.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/sounds/music.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/sounds/pickup.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/sounds/shotexplosion.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/sounds/shotfiring.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/tank/tank1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/tank/tank2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/tank1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/walls/break1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/walls/break2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/resources/walls/unbreak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/GameConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/GameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/Resources/GameObjectPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/Resources/GameResourceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/game/Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/game/BreakableWall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/game/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/game/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/game/GameWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/game/HealthPowerUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/game/PowerUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/game/Shield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/game/Sound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/game/SpeedPowerUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/game/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/game/TankControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/game/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/menus/EndGamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/menus/StartMenuPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame/src/tankrotationexample/menus/WinnerGamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jar/csc413-TankGame.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rubric.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2aL4ocwB3Ow0JunPwJZ8vX8t7ir" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/ot/IdeaProjects/Tank-Game/jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jar" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sun.rmi.server.Activation" />
+      <module name="Tank-Game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09aaf029-71c3-41fd-ad9e-31ae4ca34b19" name="Changes" comment="" />
+      <created>1704084706177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704084706177</updated>
+    </task>
+    <servers />
+  </component>
+</project>
